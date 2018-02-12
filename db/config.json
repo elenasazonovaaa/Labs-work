@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "cwp_12",
+    "user": "cwp12",
+    "pass": "1111",
+    "options":
+    {
+      "dialect": "mssql",
+      "host": "localhost",
+      "logging":false
+    }
+  }
+}

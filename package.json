@@ -1,0 +1,14 @@
+{
+  "name": "cwp-13",
+  "author": "HelenS",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "geolib": "^2.0.24",
+    "jsonwebtoken": "^8.1.0",
+    "morgan": "^1.9.0",
+    "mssql": "^4.1.0",
+    "sequelize": "^4.22.8"
+  }
+}

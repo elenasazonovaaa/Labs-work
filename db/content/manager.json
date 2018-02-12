@@ -1,0 +1,14 @@
+[
+  {
+    "email": "admin",
+    "password": "1",
+    "super": true,
+    "fleetId": 2
+  },
+  {
+    "email": "lena",
+    "password": "1",
+    "super": false,
+    "fleetId": 1
+  }
+]
